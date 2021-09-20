@@ -10,7 +10,11 @@ header{
     border-bottom-style: inset;
     border-color: rgb(216, 216, 216);
     border-bottom-width: 1px;
-   
+     
+}
+
+.menu{
+    padding: 1px;
 }
 
 #botaoinsta{
@@ -21,8 +25,23 @@ header{
 }
 
 #pesquisar{
-  margin-bottom: 6px;
-  margin-right: 13%;
+    position: absolute;
+    top: 12px;
+    margin-bottom: 6px;
+    margin-right: 13%;
+    width: 170px;
+    height: 20px;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+nav ul{
+    display: inline-flex;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+    list-style: none;
 
 }
 
