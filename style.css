@@ -14,13 +14,13 @@ header{
 }
 
 .menu{
-    padding: 2px;
+    padding: 2.5px;
 }
 
 #botaoinsta{
     block-size: 32px;
-    margin-top: 10px;
-    margin-left: 16.5%;
+    margin-top: 9px;
+    margin-left: 16.28%;
     margin-right: 17.5%;
 }
 
@@ -45,26 +45,60 @@ header{
 nav ul{
     display: inline-flex;
     position: absolute;
-    top: 5px;
-    right: 250px;
+    top: 8.5px;
+    right: 229px;
     list-style: none;
     height: 10px;
-    size: 80%;
+  
 
 }
 
-li image{
-    margin: 0 15px;
+#botaohome{
+    margin-top: 1px;
+    margin-right: 11px;
+    width: 27.2px;
 }
+
+#botaomessenger{
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 9px;
+    width: 30px;
+}
+
+#botaoexplorar{
+    margin-top: 1px;
+    margin-right: 6px;
+    width: 30.9px;
+}
+
+#botaocurtida{
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 2px;
+    width: 32.6px;
+}
+
+#botaoperfil{
+    margin-top: 1px;
+    width: 35.5px;
+    margin-right: 1px;
+    margin-left: 4.5px;
+
+}
+
+
 
 #fotoperfil{
+    margin-top: 30px;
     border-radius: 85%;
-    block-size: 135px;
-    padding: 30px;
-    margin-left: 20%;
+    block-size: 137px;
     display: inline-block;
 }
 
-#nomeusuario{
+#perfil li{
+    display: inline-block;
+    width: 150px;
     
+
 }
