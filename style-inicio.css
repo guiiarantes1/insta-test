@@ -1,0 +1,97 @@
+.menu{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.iphone{
+    height: auto;
+    width: 500px;
+}
+
+.iphone img{
+    position: absolute;
+    left: 20.8%;
+    top: 4.2%;
+}
+
+.login{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 51.4%;
+    top: 8.3%;
+    position: absolute;
+    text-align: center;
+    height: 375px;
+    width: 345px;
+    border-style: solid;
+    border-color: rgb(226, 226, 226);
+    border-width: 1.5px;
+}
+
+.login h1{
+    padding: 24px;
+    margin-top: 3.5px;
+    margin-bottom: 9px;
+    margin-right: 4px;
+}
+
+#dados input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 8.5px;
+    width: 257px;
+    height: 30px;
+    font-size: 12px;
+    
+
+}
+
+#botao-entrar button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 6px;
+    width: 268px;
+    border-style: none;
+    color: white;
+    background-color: rgb(178, 223, 252);
+    font-size: 14px;
+    height: 30px;
+    border-radius: 3px;
+}
+
+#botao-entrar button:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 6px;
+    width: 265px;
+    border-style: none;
+    color: white;
+    background-color: rgb(0, 149, 246);
+    font-size: 14px;
+    height: 30px;
+    border-radius: 3px;
+
+}
+
+#ou{
+    font-weight: 600;
+    color: #8e8e8e;
+    margin-top: 20px;
+    font-size: 13px;
+    text-align: center;
+    
+}
+
+#facebook img{
+    text-align: center;
+    width: 16px;
+    height: 16px;
+    margin-right: 2px;
+}
+
+#facebook p{
+    color: #385185;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+#esqueceu a{
+    text-decoration: none;
+}
