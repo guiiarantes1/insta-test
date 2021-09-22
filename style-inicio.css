@@ -12,6 +12,16 @@
     top: 4.2%;
 }
 
+.slide{
+    position: absolute;
+    left:30%;
+    top:18%;
+    margin-left: 9.2px;
+    margin-top: 4px;
+   
+}
+
+
 .login{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     left: 51.4%;
@@ -38,6 +48,8 @@
     width: 257px;
     height: 30px;
     font-size: 12px;
+    background-color: rgba(var(--b3f,250,250,250),1);
+    border: 1px solid #dbdbdb;
     
 
 }
@@ -89,9 +101,67 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 14px;
-    margin-top: 25px;
+    margin-top: 30px;
+}
+
+#facebook a{
+    text-decoration: none;
 }
 
 #esqueceu a{
     text-decoration: none;
+    font-size: 12px;
+    color: #385185;
+}
+
+#esqueceu{
+    margin-top: 20px;
+}
+
+.cadastrar{
+    
+    text-align: center;
+    position: absolute;
+    width: 345px;
+    height: 60px;
+    border-style: solid;
+    border-color: rgb(226, 226, 226);
+    border-width: 1.5px;
+    left: 51.4%;
+    top: 65%;
+    
+
+
+}
+
+.cadastrar p{
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    margin-top: 22px;
+}
+
+.cadastrar a{
+    text-decoration: none;
+    color: rgb(0, 149, 246);
+    font-weight: 600;
+}
+
+.obtenha {
+    position: absolute;
+    left: 58%;
+    top:77%;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.mobile{
+    position: absolute;
+    left: 53%;
+    top: 82%;
+}
+.mobile img{
+    width: 140px;
+    height: 40px;
+    margin-left: 5px;
 }
